@@ -95,7 +95,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1120;
 				LastUpgradeCheck = 1120;
-				ORGANIZATIONNAME = "Pirelli & C. S.p.A.";
+				ORGANIZATIONNAME = "Alberto Pasca";
 				TargetAttributes = {
 					2D5DEFF823917A1F00EB0E0E = {
 						CreatedOnToolsVersion = 11.2.1;
@@ -291,7 +291,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.pirelli.RecordScreen;
+				PRODUCT_BUNDLE_IDENTIFIER = it.albertopasca.RecordScreen;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -309,7 +309,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.pirelli.RecordScreen;
+				PRODUCT_BUNDLE_IDENTIFIER = it.albertopasca.RecordScreen;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
